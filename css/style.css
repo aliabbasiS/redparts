@@ -1,0 +1,20 @@
+.main2{
+    width: 50%;
+    height: 42rem;
+    background-color: khaki;
+
+}
+.box{
+    width: 10.6716rem;
+    height: 15rem;
+    flex-shrink: 0;
+    border-radius: 1rem;
+    background: #FB6F6F;
+    padding:1rem;
+
+}
+.box img{
+    width: 5rem;
+    height: 5rem;
+    flex-shrink: 0;
+}
